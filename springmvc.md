@@ -11,7 +11,7 @@
 
 ## Learn By Example
 **实验内容**
-使用 Spring MVC 和 Spring Data 完成留言板。
+使用 Spring MVC 和 Spring Data 完成留言展示页面。
 1. https://spring.io/guides/gs/serving-web-content/
 2. https://spring.io/guides/gs/accessing-data-mysql/
 
@@ -23,5 +23,5 @@
 5. 无代码生成和 xml 配置
 6. 准生产环境的监控
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU3NzM1NDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTk0NTE3MCwtMTI4NTc3MzU0M119
 -->

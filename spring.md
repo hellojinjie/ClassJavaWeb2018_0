@@ -40,5 +40,5 @@ mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -Darchety
 ## spring boot
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjA5MjY3Nl19
+eyJoaXN0b3J5IjpbLTEzNTA0OTYyNzUsMTI1MjA5MjY3Nl19
 -->
